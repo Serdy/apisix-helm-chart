@@ -24,10 +24,10 @@ keywords:
   - nginx
   - crd
 type: application
-version: 0.11.6
+version: 0.11.7
 appVersion: 1.6.1
 sources:
-  - https://github.com/apache/apisix-helm-chart
+  - https://github.com/Serdy/apisix-helm-chart
 
 maintainers:
   - name: tao12345666333
